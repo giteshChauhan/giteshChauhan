@@ -58,8 +58,8 @@ Building and maintaining a suite of production-grade web applications across two
 #### 📚 IELTS Proficiency — EdTech SaaS Platform (NO LONGER MAINTAINED)
 > A full-featured IELTS preparation platform serving students, institutes, and employees.
 
-| Portal | URL | Role |
-|--------|-----|------|
+| Portal | Type |
+|--------|-----|
 | 🌐 Landing Page | Frontend (React) |
 | 🎓 Student Panel | Frontend (React) |
 | 🏫 Institute Panel | Frontend (React) |
