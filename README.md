@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gitesh Chauhan
 
-### Full-Stack Developer · MERN · TypeScript · AI Apps · Co-Founder @ Cognifix Technologies
+### Full-Stack Engineer · AI Apps · Co-Founder @ Cognifix Technologies
 
 [![GitHub followers](https://img.shields.io/github/followers/giteshChauhan?label=Follow%20%40giteshChauhan&style=social)](https://github.com/giteshChauhan)
 [![GitHub](https://img.shields.io/badge/Also%20on%20GitHub-gitesh--ups-181717?style=flat&logo=github)](https://github.com/gitesh-ups)
@@ -14,8 +14,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Full-Stack Developer with hands-on experience building **production SaaS platforms** end-to-end
-- 🏢 Co-founder & lead developer at **[Cognifix Technologies](https://github.com/Cognifix-Technologies)** — building EdTech & HealthTech products
+- 🚀 Full-Stack Engineer with hands-on experience building **production SaaS platforms** end-to-end
+- 🏢 Co-founder & lead engineer at **[Cognifix Technologies](https://github.com/Cognifix-Technologies)** — building EdTech & HealthTech products
 - 🌱 Currently deep into **AI-powered applications**, **TypeScript at scale**, and **CMS-driven architectures**
 - 🧮 Enjoy solving algorithmic problems — practising **DSA in C++**
 - 🤝 Also active on **[@gitesh-ups](https://github.com/gitesh-ups)**
@@ -29,7 +29,7 @@
 <td align="center" width="50%">
 
 ### 🔵 [Cognifix Technologies](https://github.com/Cognifix-Technologies)
-**Co-Founder & Lead Developer**
+**Co-Founder & Lead Engineer**
 
 Building real-world SaaS products in EdTech and HealthTech.
 Active since **May 2023** · TypeScript + JavaScript
@@ -55,16 +55,16 @@ Upstream contributions, experiments & additional projects.
 
 Building and maintaining a suite of production-grade web applications across two major platforms:
 
-#### 📚 IELTS Proficiency — EdTech SaaS Platform
+#### 📚 IELTS Proficiency — EdTech SaaS Platform (NO LONGER MAINTAINED)
 > A full-featured IELTS preparation platform serving students, institutes, and employees.
 
 | Portal | URL | Role |
 |--------|-----|------|
-| 🌐 Landing Page | [ieltsproficiency.com](https://ieltsproficiency.com) | Frontend (React) |
-| 🎓 Student Panel | [student.ieltsproficiency.com](https://student.ieltsproficiency.com) | Frontend (React) |
-| 🏫 Institute Panel | [institute.ieltsproficiency.com](https://institute.ieltsproficiency.com) | Frontend (React) |
-| 👔 Employee Panel | [employee.ieltsproficiency.com](https://employee.ieltsproficiency.com) | Frontend (React) |
-| ⚙️ Backend (CMS) | [app.ieltsproficiency.com/admin](https://app.ieltsproficiency.com/admin) | Strapi (Node.js) |
+| 🌐 Landing Page | Frontend (React) |
+| 🎓 Student Panel | Frontend (React) |
+| 🏫 Institute Panel | Frontend (React) |
+| 👔 Employee Panel | Frontend (React) |
+| ⚙️ Backend (CMS) | Strapi (Node.js) |
 
 - Architected and built **5 interconnected web apps** (4 frontend portals + 1 Strapi backend)
 - Managed end-to-end delivery from database design to deployment
