@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hey there, I'm Gitesh Chauhan
+# 👋 Hi, I'm Gitesh Chauhan
 
-### Full-Stack Developer · Problem Solver · Founder
+### Full-Stack Developer · MERN · TypeScript · AI Apps · Co-Founder @ Cognifix Technologies
 
-[![GitHub followers](https://img.shields.io/github/followers/giteshChauhan?label=Follow&style=social)](https://github.com/giteshChauhan)
-[![GitHub](https://img.shields.io/badge/Alt%20Account-gitesh--ups-181717?style=flat&logo=github)](https://github.com/gitesh-ups)
+[![GitHub followers](https://img.shields.io/github/followers/giteshChauhan?label=Follow%20%40giteshChauhan&style=social)](https://github.com/giteshChauhan)
+[![GitHub](https://img.shields.io/badge/Also%20on%20GitHub-gitesh--ups-181717?style=flat&logo=github)](https://github.com/gitesh-ups)
+[![Org](https://img.shields.io/badge/Org-Cognifix%20Technologies-0077B5?style=flat&logo=github)](https://github.com/Cognifix-Technologies)
 
 </div>
 
@@ -13,11 +14,66 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm a passionate **Full-Stack Developer** specialising in the **MERN Stack**
-- 🌱 Currently exploring **AI-powered applications** & **TypeScript** at scale
-- 🏗️ I build everything from product catalogues to real-time chat apps and AI tools
-- 🧮 I also enjoy sharpening my **DSA** skills in C++
-- 🤝 You can also find some of my work over at **[@gitesh-ups](https://github.com/gitesh-ups)**
+- 🚀 Full-Stack Developer with hands-on experience building **production SaaS platforms** end-to-end
+- 🏢 Co-founder & lead developer at **[Cognifix Technologies](https://github.com/Cognifix-Technologies)** — building EdTech & HealthTech products
+- 🌱 Currently deep into **AI-powered applications**, **TypeScript at scale**, and **CMS-driven architectures**
+- 🧮 Enjoy solving algorithmic problems — practising **DSA in C++**
+- 🤝 Also active on **[@gitesh-ups](https://github.com/gitesh-ups)**
+
+---
+
+## 🏢 Organizations
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔵 [Cognifix Technologies](https://github.com/Cognifix-Technologies)
+**Co-Founder & Lead Developer**
+
+Building real-world SaaS products in EdTech and HealthTech.
+Active since **May 2023** · TypeScript + JavaScript
+
+</td>
+<td align="center" width="50%">
+
+### ⚫ [@gitesh-ups](https://github.com/gitesh-ups)
+**Personal / Upstream Account**
+
+Upstream contributions, experiments & additional projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+### 🔵 Cognifix Technologies &nbsp;·&nbsp; Co-Founder & Full-Stack Developer
+`May 2023 – Present`
+
+Building and maintaining a suite of production-grade web applications across two major platforms:
+
+#### 📚 IELTS Proficiency — EdTech SaaS Platform
+> A full-featured IELTS preparation platform serving students, institutes, and employees.
+
+| Portal | URL | Role |
+|--------|-----|------|
+| 🌐 Landing Page | [ieltsproficiency.com](https://ieltsproficiency.com) | Frontend (React) |
+| 🎓 Student Panel | [student.ieltsproficiency.com](https://student.ieltsproficiency.com) | Frontend (React) |
+| 🏫 Institute Panel | [institute.ieltsproficiency.com](https://institute.ieltsproficiency.com) | Frontend (React) |
+| 👔 Employee Panel | [employee.ieltsproficiency.com](https://employee.ieltsproficiency.com) | Frontend (React) |
+| ⚙️ Backend (CMS) | [app.ieltsproficiency.com/admin](https://app.ieltsproficiency.com/admin) | Strapi (Node.js) |
+
+- Architected and built **5 interconnected web apps** (4 frontend portals + 1 Strapi backend)
+- Managed end-to-end delivery from database design to deployment
+
+#### 💪 AdiAura — Health & Wellness Platform *(Active)*
+> B2B + B2C health & wellness platform for gym owners, personal trainers, athletes, and health enthusiasts.
+
+- Full-stack TypeScript application — currently in active development
+- Complex multi-role architecture for businesses and individual users
 
 ---
 
@@ -33,12 +89,13 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend
+### Backend & CMS
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,7 +107,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -60,11 +117,13 @@
 | [🏠 Griha Sthapana](https://github.com/giteshChauhan/griha-sthapana) | Construction engineering & architectural design catalogue | TypeScript |
 | [📈 Backtesting App](https://github.com/giteshChauhan/backtesting) | Stock trading backtesting platform *(dev stage)* | JavaScript |
 | [🎰 Orange Casino](https://github.com/giteshChauhan/orange-casino) | Casino Slot Machine App | TypeScript |
-| [💬 MERN Chat App](https://github.com/giteshChauhan/mern-chat-app) | Real-time chat application | JavaScript |
-| [🎬 Vidly](https://github.com/giteshChauhan/project_vidly) | Full-stack video rental app | JavaScript |
+| [💬 MERN Chat App](https://github.com/giteshChauhan/mern-chat-app) | Real-time chat application with WebSockets | JavaScript |
+| [🎬 Vidly](https://github.com/giteshChauhan/project_vidly) | Full-stack video rental app (MERN) | JavaScript |
+| [📱 Clippet](https://github.com/giteshChauhan/clippet) | Clipboard-style snippet manager | JavaScript |
+| [💰 Pocketful](https://github.com/giteshChauhan/pocketful) | Personal finance tracker | JavaScript |
 | [⚡ Green Energy Solars](https://github.com/giteshChauhan/green-energy-solars) | Solar product catalogue | JavaScript |
 | [🔬 Mark Testing Instruments](https://github.com/giteshChauhan/mark-testing-instruments) | Product catalogue for testing instruments | TypeScript |
-| [🧮 DSA](https://github.com/giteshChauhan/DSA) | Data Structures & Algorithms practice | C++ |
+| [🧮 DSA](https://github.com/giteshChauhan/DSA) | Data Structures & Algorithms practice in C++ | C++ |
 
 ---
 
@@ -82,11 +141,13 @@
 
 ---
 
-## 🔗 Also Find Me At
+## 🔗 Find Me Across GitHub
 
-> I maintain a secondary GitHub account for upstream contributions and experiments:
->
-> **[@gitesh-ups](https://github.com/gitesh-ups)** — check it out for additional work!
+| Account | Purpose |
+|---------|---------|
+| **[@giteshChauhan](https://github.com/giteshChauhan)** | Main account — personal projects & experiments |
+| **[@gitesh-ups](https://github.com/gitesh-ups)** | Secondary account — upstream contributions |
+| **[@Cognifix-Technologies](https://github.com/Cognifix-Technologies)** | Organisation — production SaaS products |
 
 ---
 
