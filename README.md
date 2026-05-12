@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Gitesh Chauhan
 
-### Full-Stack Developer · MERN Enthusiast · Problem Solver
+### Full-Stack Developer · Problem Solver · Founder
 
 [![GitHub followers](https://img.shields.io/github/followers/giteshChauhan?label=Follow&style=social)](https://github.com/giteshChauhan)
 [![GitHub](https://img.shields.io/badge/Alt%20Account-gitesh--ups-181717?style=flat&logo=github)](https://github.com/gitesh-ups)
