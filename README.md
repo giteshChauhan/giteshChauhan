@@ -17,7 +17,7 @@
 - 🚀 Full-Stack Engineer with hands-on experience building **production SaaS platforms** end-to-end
 - 🏢 Co-founder & lead engineer at **[Cognifix Technologies](https://github.com/Cognifix-Technologies)** — building EdTech & HealthTech products
 - 🌱 Currently deep into **AI-powered applications**, **TypeScript at scale**, and **CMS-driven architectures**
-- 🧮 Enjoy solving algorithmic problems — practising **DSA in C++**
+- 🧮 Enjoy solving algorithmic problems — **DSA & System Programming in C++**
 - 🤝 Also active on **[@gitesh-ups](https://github.com/gitesh-ups)**
 
 ---
