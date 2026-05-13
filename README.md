@@ -163,6 +163,7 @@ Building and maintaining a suite of production-grade web applications across two
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🤖 AI Resume Builder](https://github.com/giteshChauhan/ai-resume-builder) | Build smart resumes with AI assistance | TypeScript |
+| [🛡️ OptiGuard](https://github.com/giteshChauhan/optiguard) | Smart optimization & protection toolkit | TypeScript |
 | [💬 ChatPDF](https://github.com/giteshChauhan/chatpdf) | Chat with your PDF documents using AI | TypeScript |
 | [📹 Video Summarizer](https://github.com/giteshChauhan/video-summarizer) | Summarize video content intelligently | JavaScript |
 | [🏠 Griha Sthapana](https://github.com/giteshChauhan/griha-sthapana) | Construction engineering & architectural design catalogue | TypeScript |
