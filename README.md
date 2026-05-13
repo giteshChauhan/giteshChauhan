@@ -182,10 +182,6 @@ Building and maintaining a suite of production-grade web applications across two
 
 <div align="center">
 
-![Gitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giteshChauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giteshChauhan&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=giteshChauhan&theme=tokyonight&hide_border=true)
 
 </div>
